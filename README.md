@@ -1,5 +1,5 @@
 # printerplusplus-ps2pdf
-Use Printer++ and Ghostscript.NET to print PDF from printer driver
+Use Printer++ and Ghostscript.NET to print as PDF file from printer driver 
 
 Reference
 - https://github.com/Yiidiir/printerplusplus
